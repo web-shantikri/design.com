@@ -1,0 +1,44 @@
+.bgimg
+{
+	background-image: url(w7.jpg);
+	height: 600px;
+	width:100%;
+	background-size:100% 100%;
+	background-attachment: fixed;
+}
+.header
+{
+	padding-top: 10px;
+	box-sizing: border-box;
+}
+.header1
+{
+	padding-top: 180px;
+	box-sizing: border-box;
+	font-weight: bold;
+	font-family: 'Yeon Sung', cursive;
+}
+.iset
+{
+	padding-top: 20px;
+	box-sizing: border-box;
+	width: 100px;
+	height:100px;
+	border-radius: 100%;
+	margin-bottom: 20px
+}
+.figure-img
+{
+	width: 150px;
+	height:150px;
+	border-radius: 100%;
+}
+.card-img-top
+{
+	height:200px;
+	width:100%;
+}
+.figure:hover
+{
+	transform:scale(1.3);
+}
